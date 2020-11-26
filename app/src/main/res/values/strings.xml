@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">StudentApplication</string>
+    <string name="name_error">string</string>
+    <string name="email_error">string</string>
+    <string name="error_invalid_email">string</string>
+    <string name="phone_error">string</string>
+    <string name="password_error">string</string>
+    <string name="error_invalid_password">string</string>
+</resources>
